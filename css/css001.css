@@ -1,0 +1,127 @@
+@charset "utf-8";
+.row .col-xl-4.offset-xl-0 {
+    border-top-right-radius: 0px;
+    margin-top: 0px;
+    margin-right: 0px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    padding-top: 0px;
+}
+.col-xl-4.offset-xl-0 .card.col-md-4.offset-xl-2.col-xl-10 .card-img-top {
+    border-radius: 45px;
+    margin-top: 19px;
+    margin-right: 0px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+}
+
+.row .card.col-md-4.offset-xl-1.col-xl-3 .card-img-top {
+    border-radius: 45px;
+    margin-top: 19px;
+    margin-right: 0px;
+    margin-bottom: 0px;
+    margin-left: -14px;
+}
+footer .row .col-md-6 {
+}
+
+.row .col-xl-4.offset-xl-0 .card.col-md-4.offset-xl-2.col-xl-10 {
+    background-color: #DACC7B;
+    border-top-right-radius: 24px;
+    border-bottom-left-radius: 40px;
+}
+.row .card.col-md-4.offset-xl-1.col-xl-3 {
+    background-color: #DACC7B;
+    border-top-right-radius: 24px;
+    border-bottom-left-radius: 40px;
+    margin-top: 25px;
+    margin-right: 25px;
+    margin-bottom: 25px;
+    margin-left: 25px;
+}
+.container .navbar.navbar-expand-lg.navbar-light.bg-light {
+    background-color: #BDB685;
+}
+.container .navbar.navbar-expand-lg.navbar-light.bg-light {
+}
+body {
+}
+.navbar.navbar-expand-lg.navbar-light.bg-light .navbar-toggler .navbar-toggler-icon {
+    background-color: #BDB685;
+}
+.container .navbar.navbar-expand-lg.navbar-light.bg-light {
+    background-color: #BDB685;
+}
+.container .navbar.navbar-expand-lg.navbar-light.bg-light {
+    border-bottom-left-radius: 36px;
+    border-bottom-right-radius: 36px;
+}
+footer .row .col-md-6 {
+    background-color: #BDB685;
+}
+.row {
+    background-color: #929709;
+}
+.row .col-xl-4.offset-xl-0 .card.col-md-4.offset-xl-2.col-xl-10 {
+    left: 0px;
+    top: 13px;
+    padding-top: 12px;
+    margin-top: 10px;
+}
+.row .card.col-md-4.offset-xl-1.col-xl-3 {
+    left: 8px;
+}
+
+
+.row .card.col-md-4.offset-xl-1.col-xl-3 .card-img-top {
+    left: auto;
+    padding-left: 10px;
+    padding-right: 0px;
+}
+
+div.gallery {
+  border: 1px solid #ccc;
+}
+
+div.gallery:hover {
+  border: 1px solid #777;
+}
+
+div.gallery img {
+  width: 100%;
+  height: auto;
+}
+
+div.desc {
+  padding: 15px;
+  text-align: center;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+.responsive {
+  padding: 0 6px;
+  float: left;
+  width: 24.99999%;
+}
+
+@media only screen and (max-width: 700px) {
+  .responsive {
+    width: 49.99999%;
+    margin: 6px 0;
+  }
+}
+
+@media only screen and (max-width: 500px) {
+  .responsive {
+    width: 100%;
+  }
+}
+
+.clearfix:after {
+  content: "";
+  display: table;
+  clear: both;
+}
